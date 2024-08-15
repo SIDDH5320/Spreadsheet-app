@@ -94,12 +94,7 @@ Users can undo and redo changes to revert any unwanted edits made to the grid.
 - **Tailwind CSS**: Utility-first CSS framework for styling.
 - **React Icons**: For providing a clean, modern user interface.
 
-## Configuration
-To customize the grid size or adjust settings related to pagination, search, or formatting, refer to the configuration files located in:
-- `src/config/grid.js`
-- `src/config/state.js`
 
-These files allow for adjusting the grid size, formatting options, and pagination limits based on project requirements.
 
 ## Contributors
 - [Your Name](https://github.com/SIDDH5320)
