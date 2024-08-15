@@ -97,7 +97,7 @@ Users can undo and redo changes to revert any unwanted edits made to the grid.
 
 
 ## Contributors
-- [Your Name](https://github.com/SIDDH5320)
+- [Siddh shah](https://github.com/SIDDH5320)
 
 ## License
 This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for more information.
